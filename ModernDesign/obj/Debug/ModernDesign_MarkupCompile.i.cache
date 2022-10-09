@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 D:\2. Workstation\1. course\C#\ModernDesign\ModernDesign\App.xaml
-21036357904
+31365566560
 
 81523193229
 13-1310406943
-MainWindow.xaml;Theme\MenuButtonTheme.xaml;
+MainWindow.xaml;Theme\MenuButtonTheme.xaml;Theme\TextboxTheme.xaml;
 
-False
+True
 
