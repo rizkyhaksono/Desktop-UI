@@ -16,3 +16,7 @@ D:\2. Workstation\1. course\C#\ModernDesign\ModernDesign\obj\Debug\ModernDesign.
 D:\2. Workstation\1. course\C#\ModernDesign\ModernDesign\obj\Debug\ModernDesign.pdb
 D:\2. Workstation\1. course\C#\ModernDesign\ModernDesign\obj\Debug\Theme\MenuButtonTheme.baml
 D:\2. Workstation\1. course\C#\ModernDesign\ModernDesign\obj\Debug\App.baml
+D:\2. Workstation\1. course\C#\ModernDesign\ModernDesign\obj\Debug\Theme\TextboxTheme.baml
+D:\2. Workstation\1. course\C#\ModernDesign\ModernDesign\obj\Debug\NVVM\View\HomeView.g.cs
+D:\2. Workstation\1. course\C#\ModernDesign\ModernDesign\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\2. Workstation\1. course\C#\ModernDesign\ModernDesign\obj\Debug\NVVM\View\HomeView.baml
